@@ -5,8 +5,7 @@ Model is trained over 3795 data of Nifty price from 1/04/2001 to 31/03/2017 and 
 It will predict mood of market for upcoming next-week.
 Here:-    Nifty_prediction_result.png- is result when test over same as training set.
 
-![alt text](http://url/to/https://github.com/junior-g/Useful_Scripts_DuringDeepLearning/blob/master/RNN-Application(Nifty-Prediction)/Nifty_prediction_result.png)
-![alt text](https://raw.githubusercontent.com/junior-g/Useful_Scripts_DuringDeepLearning/RNN-Application(Nifty-Prediction)/Nifty_prediction_result.png)
+![alt text](https://raw.githubusercontent.com/junior-g/Useful_Scripts_DuringDeepLearning/master/RNN-Application(Nifty-Prediction)/Nifty_prediction_result.png)
 
 and      Nifty_prediction_result_2.png :- is when tested over test data of 1/04/2017 to 31/03/2018 (256 working days of NSE) 
-![alt text](https://raw.githubusercontent.com/junior-g/Useful_Scripts_DuringDeepLearning/RNN-Application(Nifty-Prediction)/Nifty_prediction_result_2.png)
+![alt text](https://raw.githubusercontent.com/junior-g/Useful_Scripts_DuringDeepLearning/master/RNN-Application(Nifty-Prediction)/Nifty_prediction_result_2.png)
